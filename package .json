@@ -1,0 +1,14 @@
+{
+  "name": "claude-caption-generator",
+  "version": "1.0.0",
+  "description": "AI caption generator using Claude API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "dotenv": "^16.0.0"
+  }
+}
